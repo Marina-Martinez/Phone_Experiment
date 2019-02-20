@@ -1,0 +1,41 @@
+---
+title: "Phone"
+author: "Marina Martinez"
+date: "2/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#**Personal No Phone Policy**
+
+
+
+##Findings
+- Within **5 mins** it affected my life because my *key* to get into work is on the back of my phone, along with *school ID*, and *debit card*.
+- I spoke to **two people** on the elevator, where normally I am on my phone.
+- I have felt sort of *twitchy* all day, wanting to reach for my phone.
+- After INFO 201 lecture and hours of struggling with my assignment I realized the root of what I wanted in the moment where I would have reached for my phone: **validation**.Since the afternoon wasn't as productive as I would have liked and I was in a bad mood after lecture I wanted something good like a message from someone I care about, or something funny to distract me. 
+- Phones are helpful for *notes*.
+- Was anxious this morning that something serious would happen that I wouldn't hear about because my phone wasn't with me.
+- It is still possible to be distracted without a phone.
+- When I wanted instant information I couldn't have it. Sometimes this kept me focus, at times it may have been easier to forget something.
+
+##Pro's
+- Super productive at work.
+- Met two new people at work.
+- Asked questions in tutoring.
+
+
+##Further Information
+- An interesting read from the [New York Times](https://www.nytimes.com/2018/02/13/well/phone-cellphone-addiction-time.html).
+
+- Oh my gosh actually this [video](https://www.youtube.com/watch?v=yo34XduSnsY) describes it really well!
+
+- I have gone **14 hours** without my phone today.
+
+
+
+
+The end.
